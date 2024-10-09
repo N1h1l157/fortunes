@@ -30,3 +30,5 @@ mv fortunes/Mund4n3 fortunes/Mund4n3.dat /usr/share/games/fortune/
 fortune -e Mund4n3
 alias fortune='fortune -e Mund4n3'
 ```
+
+![](../images/example.png)
