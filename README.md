@@ -31,4 +31,4 @@ fortune -e Mund4n3
 alias fortune='fortune -e Mund4n3'
 ```
 
-![](../images/example.png)
+![](images/example.png)
